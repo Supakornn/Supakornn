@@ -1,6 +1,6 @@
 ### Hi, there 👋
 
-I'm Supakorn, I create stuff and hack stuff.
+I'm Supakorn, I do stuff about software and hacking.
 
 ### Links 👾
 
