@@ -23,7 +23,7 @@ Supakornn["About"] = struct {
     Tools: []string{
         "Git", "Docker", "Figma", "VSCode", "Datagrip", "Postman", "Insomnia"
         },
-    Other: []string{
+    Others: []string{
         "Nginx", "Vercel", "Netlify", "Heroku", "AWS", "GCP", "Azure", "Cloudflare"
     },
     Interests: []string{
