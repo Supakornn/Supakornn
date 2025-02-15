@@ -11,7 +11,7 @@
 ```go
 Supakornn["About"] = struct {
     Languages: []string{
-        "JavaScript", "TypeScript", "Go", "Python", "SQL", "Java", "Lua", "Rust"
+        "JavaScript", "TypeScript", "Go", "Python", "SQL", "Java", "Lua", "Rust", "GraphQL"
     },
     Frameworks: []string{
         "React", "Vue", "Next", "Astro", "Svelte", "Nest", "Fiber", "Echo", "TailwindCSS", "Boostrap",
