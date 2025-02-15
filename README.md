@@ -14,7 +14,7 @@ Supakornn["About"] = struct {
         "JavaScript", "TypeScript", "Go", "Python", "SQL", "Java", "Lua", "Rust"
     },
     Frameworks: []string{
-        "React", "Vue", "Next", "Nest", "Fiber", "Echo", "TailwindCSS", "Boostrap",
+        "React", "Vue", "Next", "Astro", "Svelte", "Nest", "Fiber", "Echo", "TailwindCSS", "Boostrap",
         "Material-UI", "Chakra-UI", "Styled-Components", "Jest"
     },
     Databases: []string{
