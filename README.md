@@ -13,7 +13,7 @@ Supakornn["About"] = struct {
     Languages: []string{"JavaScript", "TypeScript", "Go", "Python", "SQL", "Java", "Lua", "Rust" },
     Frameworks: []string{"React", "Vue", "Next", "Nest", "Fiber", "Echo", "TailwindCSS", "Boostrap",
         "Material-UI", "Chakra-UI", "Styled-Components", "Jest"},
-    Databases: []string{"PostgreSQL", "MySQL", "MongoDB", "Redis", "Prisma", "TypeORM", "GORM"},
+    Databases: []string{"PostgreSQL", "MySQL", "MongoDB", "Firebase", "Redis", "Prisma", "TypeORM", "GORM"},
     Tools: []string{"Docker", "OrbStack", "GitLab CI/CD", "VSCode", "Postman", "Insomnia", "Vim",
         "DataGrip", "XCode", "VMWare", "WireShark", "Proxyman", "Burpsuite"},
     Interests: []string{"Fullstack Development", "AI/ML", "Blockchain", "Cybersecurity"},
