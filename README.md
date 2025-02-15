@@ -14,7 +14,7 @@ Supakornn["About"] = struct {
         "JavaScript", "TypeScript", "Go", "Python", "SQL", "Java", "Lua", "Rust", "GraphQL"
     },
     Frameworks: []string{
-        "React", "Vue", "Next", "Astro", "Svelte", "Nest", "Fiber", "Echo", "TailwindCSS", "Boostrap",
+        "React", "Vue", "Next", "Astro", "Svelte", "Express", "Nest", "Fiber", "Echo", "TailwindCSS", "Boostrap",
         "Material-UI", "Chakra-UI", "Styled-Components", "Jest"
     },
     Databases: []string{
@@ -23,6 +23,10 @@ Supakornn["About"] = struct {
     Tools: []string{
         "Git", "Docker", "Figma", "VSCode", "Datagrip", "Postman", "Insomnia"
         },
+    Other: []string{
+        "Nginx", "Node", "Express", "REST", "gRPC", "WebSockets",
+        "CI/CD", "TDD", "BDD", "DDD", "SOLID", "Design Patterns", "Algorithms", "Data Structures"
+    },
     Interests: []string{
         "Fullstack Development", "AI/ML", "Blockchain", "Cybersecurity"
         },
