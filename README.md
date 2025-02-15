@@ -24,8 +24,7 @@ Supakornn["About"] = struct {
         "Git", "Docker", "Figma", "VSCode", "Datagrip", "Postman", "Insomnia"
         },
     Other: []string{
-        "Nginx", "Node", "Express", "REST", "gRPC", "WebSockets",
-        "CI/CD", "TDD", "BDD", "DDD", "SOLID", "Design Patterns", "Algorithms", "Data Structures"
+        "Nginx", "Vercel", "Netlify", "Heroku", "AWS", "GCP", "Azure", "Cloudflare"
     },
     Interests: []string{
         "Fullstack Development", "AI/ML", "Blockchain", "Cybersecurity"
