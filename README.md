@@ -1,37 +1,9 @@
-<!-- <div> -->
-
-<!-- [![wakatime](https://wakatime.com/badge/user/b7ac4332-4784-4ad9-a872-febcac6558b4.svg)](https://wakatime.com/@b7ac4332-4784-4ad9-a872-febcac6558b4) -->
-
-<!-- <h1 align="center">👋 Hi, there</h1>
-
 ```go
-Supakornn["About"] = struct {
-    Languages: []string{
-        "JavaScript", "TypeScript", "Go", "Python", "SQL", "Java", "Lua", "Rust", "GraphQL"
-    },
-    Frameworks: []string{
-        "React", "Vue", "Next", "Astro", "Svelte", "Express", "Nest", "Fiber", "Echo", "TailwindCSS",
-        "Boostrap", "Material-UI", "Chakra-UI", "Styled-Components", "Jest"
-    },
-    Databases: []string{
-        "PostgreSQL", "MySQL", "MongoDB", "Firebase", "Redis", "Prisma", "TypeORM", "GORM"
-    },
-    Tools: []string{
-        "Git", "Docker", "Figma", "VSCode", "Datagrip", "Postman", "Insomnia"
-        },
-    Others: []string{
-        "Nginx", "Vercel", "Netlify", "Heroku", "AWS", "GCP", "Azure", "Cloudflare"
-    },
-    Interests: []string{
-        "Fullstack Development", "AI/ML", "Blockchain", "Cybersecurity"
-        },
-}
-``` -->
+   ___             _ __            _
+  / __|   _  _    | '_ \  __ _    | |__    ___      _ _   _ _     _ _
+  \__ \  | +| |   | .__/ / _` |   | / /   / _ \    | '_| | ' \   | ' \
+  |___/   \_,_|   |_|__  \__,_|   |_\_\   \___/   _|_|_  |_||_|  |_||_|
+_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|
+"`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'
 
-<div align="center">
-
-[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime/?username=Supakornn&layout=compact&langs_count=20&hide_border=true&custom_title=Wakatime&bg_color=00000000&hide=PHP)](https://wakatime.com/@Supakornn)
-
-</div>
-
-<!-- </div> -->
+```
