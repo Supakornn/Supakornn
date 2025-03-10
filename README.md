@@ -4,7 +4,7 @@
 
 <br/>
 
-<samp>
+<div>
   <div align="center">
     
     ◦ Student ◦ Developer ◦ Hacker
@@ -12,12 +12,12 @@
     ➝ currecntly studying at IT, KMUTT
     
   </div>
-</samp>
+</div>
 
 <div align="center">
 
 ━━━━━━━━━━━━━━━━━━━
 
-<sub>⚡ crafting digital experiences through code ⚡</sub>
+<div>⚡ crafting digital experiences through code ⚡</div>
 
 </div>
