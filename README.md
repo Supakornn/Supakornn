@@ -9,7 +9,7 @@
     
     ◦ Student ◦ Developer ◦ Hacker
     
-    ➝ currently exploring system design
+    ➝ currecntly studying at IT, KMUTT
     
   </div>
 </samp>
