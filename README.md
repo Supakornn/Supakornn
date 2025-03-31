@@ -4,7 +4,7 @@
 
 <br/>
 
-<!- <div>
+<div>
   <div align="center">
 
     ◦ Student ◦ Developer ◦ Hacker
@@ -12,7 +12,6 @@
     ➝ currecntly studying at IT, KMUTT
 
   </div>
-  !->
 </div>
 
 <div align="center">
