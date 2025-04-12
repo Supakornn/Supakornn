@@ -11,6 +11,8 @@ Software Engineer specializing in full-stack development. Passionate about build
 - [codingtype](https://github.com/Supakornn/codingtype) - A Website for testing your typing speed in each programming languages syntax.
 - [valentine-roses](https://github.com/Supakornn/valentine-roses) - A websites for send a roses card to your loved ones.
 
+see other projects [here](https://github.com/supakornn?tab=repositories)
+
 ## Blog
 
 - [STH-Mini-Web-CTF-2025](https://medium.com/@supakornn/sth-mini-web-ctf-2025-124d36b2f978) - A detailed write-up of the STH Mini Web CTF 2025, including challenges and solutions.
