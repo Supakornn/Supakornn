@@ -13,7 +13,7 @@ Software Engineer specializing in full-stack development. Passionate about build
 
 see other projects [here](https://github.com/supakornn?tab=repositories)
 
-## Blog
+## Blogs
 
 -   [STH-Mini-Web-CTF-2025](https://medium.com/@supakornn/sth-mini-web-ctf-2025-124d36b2f978) - A detailed write-up of the STH Mini Web CTF 2025, including challenges and solutions.
 
