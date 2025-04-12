@@ -1,4 +1,4 @@
-# Supakorn
+# Hi, I'm Supakorn
 
 Software Engineer specializing in full-stack development. Passionate about building scalable applications and solving complex problems.
 
