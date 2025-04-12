@@ -1,24 +1,22 @@
-<h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=fff&center=true&vCenter=true&width=500&lines=Supakornn;Developer;Hacker" alt="Typing SVG" />
-</h2>
+# Supakorn
 
-<br/>
+Software Engineer specializing in full-stack development. Passionate about building scalable applications and solving complex problems.
 
-<div>
-  <div align="center">
+## Projects
 
-    ◦ Student ◦ Developer ◦ Hacker
+- [goscanner](https://github.com/supakornn/goscanner) - A powerful, high-performance port scanner written in Go.
+- [thai-bad-words](https://github.com/SIT-SandBox/thai-bad-words) - Library for detecting inappropriate Thai words in text content.
+- [myip-tui](https://github.com/supakornn/myip-tui) - A clean, intuitive terminal UI for network interface monitoring.
+- [zigbrute](https://github.com/Supakornn/zigbrute) - A fast and efficient password brute-force tool written in Zig.
+- [codingtype](https://github.com/Supakornn/codingtype) - A Website for testing your typing speed in each programming languages syntax.
+- [valentine-roses](https://github.com/Supakornn/valentine-roses) - A websites for send a roses card to your loved ones.
 
-    ➝ currecntly studying at IT, KMUTT
+## Blog
 
-  </div>
-</div>
+- [STH-Mini-Web-CTF-2025](https://medium.com/@supakornn/sth-mini-web-ctf-2025-124d36b2f978) - A detailed write-up of the STH Mini Web CTF 2025, including challenges and solutions.
 
-<div align="center">
+## Contact
 
-━━━━━━━━━━━━━━━━━━━
-
-<div>⚡ crafting digital experiences through code ⚡</div>
-
-
-</div>
+- [LinkedIn](https://www.linkedin.com/in/supakornieamgomol/)
+- [Twitter](https://x.com/supak0rnn)
+- Email: contact@supakorn.info
