@@ -9,7 +9,7 @@ Software Engineer specializing in full-stack development. Passionate about build
 - [MyIP](https://github.com/supakornn/myip-tui) - A clean, intuitive terminal UI for network interface monitoring.
 - [Zigbrute](https://github.com/Supakornn/zigbrute) - A fast and efficient password brute-force tool written in Zig.
 - [Codingtype](https://github.com/Supakornn/codingtype) - A Website for testing your typing speed in each programming languages syntax.
-- [Valentine-Roses](https://github.com/Supakornn/valentine-roses) - A websites for send a roses card to your loved ones.
+- [Valentine Roses](https://github.com/Supakornn/valentine-roses) - A websites for send a roses card to your loved ones.
 - [Supakornn.info](https://github.com/Supakornn/supakorn) - My personal website.
 
 ## Blogs
