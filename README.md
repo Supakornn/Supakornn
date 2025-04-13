@@ -1,6 +1,6 @@
 # Hi, I'm Supakorn
 
-Software Engineer specializing in full-stack development. Passionate about building scalable applications and solving complex problems.
+Developer specializing in full-stack development and cybersecurity. Passionate about building scalable applications, solving complex problems and hacking.
 
 ## Projects
 
