@@ -2,6 +2,8 @@
 
 Developer specializing in full-stack development and cybersecurity. Passionate about building scalable applications, solving complex problems and hacking.
 
+[![My Skills](https://skillicons.dev/icons?i=js,ts,py,go,rust,zig,lua,java,react,next,vue,nuxt,astro,svelte,express,nest,tailwind,mui,gql,prisma,redis,vitest,vite,cf,gcp,docker,mongo,firebase,postgres,mysql&perline=15)](https://skillicons.dev)
+
 ## Projects
 
 - [Goscanner](https://github.com/supakornn/goscanner) - A powerful, high-performance port scanner written in Go.
