@@ -17,7 +17,7 @@ Developer specializing in full-stack development and cybersecurity. Passionate a
 ## Blogs
 
 - [STH-Mini-Web-CTF-2025](https://medium.com/@supakornn/sth-mini-web-ctf-2025-124d36b2f978) - CTF write-up of the STH Mini Web CTF 2025. (TH)
-- [WebAssembly (WASM) ด้วยภาษา Zig — เขียนเว็บด้วยความเร็วระดับ Native](https://medium.com/@supakornn/webassembly-wasm-ด้วยภาษา-zig-เขียนเว็บด้วยความเร็วระดับ-native-c834a1e85552) - Blog about how to build WebAssembly (WASM) with Zig. (TH)
+- [WebAssembly (WASM) ด้วยภาษา Zig — เขียนเว็บด้วยความเร็วระดับ Native](https://medium.com/@supakornn/webassembly-wasm-ด้วยภาษา-zig-เขียนเว็บด้วยความเร็วระดับ-native-c834a1e85552) - Blog about how to build WebAssembly with Zig. (TH)
 - [เขียนเว็บแบบไม่ต้องง้อ JavaScript ด้วย HTMX](https://medium.com/@supakornn/เขียนเว็บแบบไม่ง้อ-javascript-ด้วย-htmx-95cf29e03317) - Blog about what HTMX is and how to use it. (TH)
 
 ## Contact
