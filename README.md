@@ -13,6 +13,8 @@ Developer specializing in full-stack development and cybersecurity. Passionate a
 - [Codingtype](https://github.com/Supakornn/codingtype) - A Website for testing your typing speed in each programming languages syntax.
 - [Valentine Roses](https://github.com/Supakornn/valentine-roses) - A websites for send a roses card to your loved ones.
 - [Supakornn.info](https://github.com/Supakornn/supakorn) - My personal website.
+- [Clock Game](https://github.com/Supakornn/clock-game) - Stupid hackathon KMUTT round 1 - Challenge หยุดเวลา ไม่ เสียเวลา ใช่
+- [Clone Repo](https://github.com/Supakornn/clone-repo) - Stupid hackathon KMUTT round 1 - Challenge คิดเยอะมากไม่ดีนะจ๊ะ
 
 ## Blogs
 
