@@ -14,7 +14,7 @@ Developer specializing in full-stack development and cybersecurity. Passionate a
 - [Valentine Roses](https://github.com/Supakornn/valentine-roses) - Websites for send a roses card to your loved ones.
 - [Supakornn.info](https://github.com/Supakornn/supakorn) - My personal website.
 
-## Blogs
+## Writing
 
 - [STH-Mini-Web-CTF-2025](https://medium.com/@supakornn/sth-mini-web-ctf-2025-124d36b2f978) - CTF write-up of the STH Mini Web CTF 2025. (TH)
 - [WebAssembly (WASM) ด้วยภาษา Zig — เขียนเว็บด้วยความเร็วระดับ Native](https://medium.com/@supakornn/webassembly-wasm-ด้วยภาษา-zig-เขียนเว็บด้วยความเร็วระดับ-native-c834a1e85552) - Blog about how to build WebAssembly with Zig. (TH)
