@@ -1,6 +1,6 @@
 ### Hi, there 👋
 
-I'm Gap, I do stuff about software and hacking.
+I'm **Gap**, I do stuff about software and hacking.
 
 ### Links 👾
 
