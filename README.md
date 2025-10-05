@@ -2,4 +2,4 @@
 
 Links:
 - [🪴 Digital Garden](https://supakorn.info)
-- [📨 Resume](resume.supakorn.info)
+- [📨 Resume](https://resume.supakorn.info)
